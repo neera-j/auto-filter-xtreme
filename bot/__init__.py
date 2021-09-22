@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @neer_j
+# (c) @AlbertEinsteinTG
 
 import os
 import logging
