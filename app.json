@@ -35,7 +35,7 @@
             "description": "YOUR BOT'S NAME",
             "value": ""
         },
-        "GROUP NAME": {
+        "GROUP_NAME": {
             "description": "YOUR GROUP'S NAME IN WHICH BOT WORKS",
             "value": ""
         },
