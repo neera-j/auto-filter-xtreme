@@ -116,6 +116,6 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
  - Thanks To Dan For His Awesome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
- - Thanks to Albert Einstein [For his Original Repo](https://github.com/AlbertEinsteinTG)
+ - Thanks to  [Albert Einstein](https://github.com/AlbertEinsteinTG) For his Original Repo
 ## Pinne LAST Enikkum Koodi
  - [Thanks To Me 😉👀](https://github.com/neera-j)
