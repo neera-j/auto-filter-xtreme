@@ -1,13 +1,17 @@
 # XtremE Auto Filter BoT
 
 <p align="center">
-  <a href="https://github.com/neera-j/auto-filter-v3-by-cp-botz/stargazers">
+  <a href="https://github.com/neera-j/auto-filter-xtreme/stargazers">
     <img src="https://img.shields.io/github/stars/neera-j?style=social">
 
   </a>
   
-  <a href="https://github.com/neera-j/auto-filter-v3-by-cp-botz/fork">
-    <img src="https://img.shields.io/github/forks/neera-j/auto-filter-v3-by-cp-botz?style=social">
+  <a href="https://github.com/neera-j/auto-filter-xtreme/fork">
+    <img src="https://img.shields.io/github/forks/neera-j/auto-filter-xtreme?style=social">
+
+  </a> 
+    <a href="https://github.com/neera-j/auto-filter-xtreme">
+    <img src="https://img.shields.io/github/languages/code-size/neera-j/auto-filter-xtreme?style=social">
 
   </a> 
   
@@ -112,6 +116,6 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
  - Thanks To Dan For His Awesome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
- - Thanks to Albert Einstein [For his Original Repo]
+ - Thanks to Albert Einstein [For his Original Repo](https://github.com/AlbertEinsteinTG)
 ## Pinne LAST Enikkum Koodi
  - [Thanks To Me 😉👀](https://github.com/neera-j)
